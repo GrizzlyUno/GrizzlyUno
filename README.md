@@ -11,8 +11,10 @@ Within 2-3 months, I've already completed a series of Systems for Panorama.
 
 ### Learning
 - Understanding ModuleScripts, and what extent they can used
-- The Limits of API services, and how effective and well they can be Utilized 
+- The Limits of API services, and how effective and well they can be Utilized
 
+### Specialties
+![Python (Mathematical Purpose)]([http://url/to/img.png](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg))
 
 <!--
 **GrizzlyUno/GrizzlyUno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
