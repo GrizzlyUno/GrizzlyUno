@@ -1,6 +1,7 @@
-<img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/f2444ba8-f7ac-49a0-b92a-ada195350ff1" width="1200" height="400">
+<img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/8b0c68ce-d011-43f8-969f-c97bcf24e2ae" width="1200" height="200">
 
 # About
+
 
 Greetings, 
 I am an aspiring (Game) Developer, currently working on a Project called Panorama. 
