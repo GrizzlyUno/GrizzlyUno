@@ -15,6 +15,8 @@ Within 2-3 months, I've already completed a series of Systems for Panorama.
 ### Specialties
 #### Development
 <img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/0590165e-fc65-49bb-a7eb-54bc28a4f574" width="60" height="60">, <img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/c1754d55-713c-4f73-a2de-697165d67afb" width="60" height="60">
+#### Content Creation
+<img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/b8c756a5-39f4-4a90-a0ff-9d1ddafd7e7f" width="60" height="60">, <img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/c5c24d4d-5ea0-43bf-b0cf-6653ace3489d" width="60" height="60">
 
 **GrizzlyUno/GrizzlyUno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
