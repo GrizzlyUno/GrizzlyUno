@@ -1,5 +1,3 @@
-<img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/8b0c68ce-d011-43f8-969f-c97bcf24e2ae" width="1200" height="150">
-
 # About
 
 
