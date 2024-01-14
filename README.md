@@ -1,4 +1,5 @@
 <img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/f2444ba8-f7ac-49a0-b92a-ada195350ff1" width="600" height="200">
+
 # About
 
 Greetings, 
