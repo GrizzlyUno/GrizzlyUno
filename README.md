@@ -1,4 +1,6 @@
+<img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/f2444ba8-f7ac-49a0-b92a-ada195350ff1" width="600" height="200">
 # About
+
 Greetings, 
 I am an aspiring (Game) Developer, currently working on a Project called Panorama. 
 My journey into Game Development itself started back in the year 2018 when I started building within the Roblox Studio Engine.
