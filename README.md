@@ -10,13 +10,13 @@ Panorama was the stepping stone to expanding my knowledge of scripting a rather 
 Within 2-3 months, I've already completed a series of Systems for Panorama.
 
 ### Learning
-- Understanding ModuleScripts, and what extent they can used
-- The Limits of API services, and how effective and well they can be Utilized
-
-### Specialties
 <img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/4fbbe295-2779-43ad-85c1-69289a871b2c" width="60" height="60">
 
-<!--
+### Specialties
+<img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/0590165e-fc65-49bb-a7eb-54bc28a4f574" width="60" height="60">
+
+<!--![Uploading Lua-Logo.svg…]()
+
 **GrizzlyUno/GrizzlyUno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
