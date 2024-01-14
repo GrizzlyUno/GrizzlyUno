@@ -14,7 +14,6 @@ Panorama was the stepping stone to expanding my knowledge of scripting at a rath
 Within 2-3 months, I've already completed a series of Systems for Panorama.
 
 #### Off-site Portfolios:
-\
 <a href="https://create.roblox.com/talent/creators/755648804"> Creator Hub Page </a>
 
 ### Learning
