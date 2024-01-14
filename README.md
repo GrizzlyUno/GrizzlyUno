@@ -15,7 +15,7 @@ Within 2-3 months, I've already completed a series of Systems for Panorama.
 
 ### Specialties
 
-![Python-logo-notext svg](https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/4fbbe295-2779-43ad-85c1-69289a871b2c)
+![Python-logo-notext svg](https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/4fbbe295-2779-43ad-85c1-69289a871b2c =250x250)
 
 <!--
 **GrizzlyUno/GrizzlyUno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
