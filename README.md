@@ -23,4 +23,4 @@ Within 2-3 months, I've already completed a series of Systems for Panorama.
 #### Development
 <img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/0590165e-fc65-49bb-a7eb-54bc28a4f574" width="60" height="60">, <img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/c1754d55-713c-4f73-a2de-697165d67afb" width="60" height="60">
 #### Organisation
-<img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/526c15f0-06b2-4f71-8a95-0d75db8541f8" width="50" height="60">, <img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/4a61113d-9b74-4078-9bdc-4eb4b1e61a4e" width="50" height="60">, <img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/94a7cbec-1468-426a-8ed7-749ebebe8ff1" width="60" height="60">
+<img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/526c15f0-06b2-4f71-8a95-0d75db8541f8" width="45" height="60">, <img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/4a61113d-9b74-4078-9bdc-4eb4b1e61a4e" width="45" height="60">, <img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/94a7cbec-1468-426a-8ed7-749ebebe8ff1" width="60" height="60">
