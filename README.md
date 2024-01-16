@@ -19,7 +19,7 @@ Within 2-3 months, I've already completed a series of Systems for Panorama.
 ### Learning
 <img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/4fbbe295-2779-43ad-85c1-69289a871b2c" width="60" height="60">, <img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/f767d845-769f-4aab-b069-716b28b48d6c" width="60" height="80">, <img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/4babab7d-df68-46a2-9d3c-db0d78326340" width="60" height="60">
 
-### Specialties
+### Skills & Expertise
 #### Development
 <img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/0590165e-fc65-49bb-a7eb-54bc28a4f574" width="60" height="60">, <img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/c1754d55-713c-4f73-a2de-697165d67afb" width="60" height="60">
 #### Content Creation
