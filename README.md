@@ -7,7 +7,7 @@ My journey into Game Development itself started back in the year 2018 when I sta
 Later in the year 2021 led to an interest in Animation, and then from late to mid-2023 into Scripting/Programming.
 
 #### Current Project
-As mentioned before at the moment, I am working on a game called Panorama, Panorama is a personal endeavor I have taken upon myself to advance my scripting knowledge. 
+N/A
 
 ### Learning
 <img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/f767d845-769f-4aab-b069-716b28b48d6c" width="60" height="80"> 
