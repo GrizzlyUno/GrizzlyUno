@@ -24,4 +24,4 @@ N/A
 <img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/f767d845-769f-4aab-b069-716b28b48d6c" width="30" height="40"> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrizzlyUno&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="GrizzlyUno's GitHub Stats" />
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GrizzlyUno&theme=dark&show_icons=true&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=GrizzlyUno&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GrizzlyUno's GitHub Stats" />
