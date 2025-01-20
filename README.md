@@ -12,7 +12,7 @@ N/A
 
 
 
-### Skills & Expertise
+## Skills & Expertise
 #### Development
 
 <img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/c1754d55-713c-4f73-a2de-697165d67afb" width="30" height="30"> <img src="https://github.com/GrizzlyUno/GrizzlyUno/assets/122688392/4babab7d-df68-46a2-9d3c-db0d78326340" width="30" height="30">
