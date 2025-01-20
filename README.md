@@ -1,4 +1,4 @@
-## My GitHub Page
+## my GitHub Page
 
 
 Greetings, 
