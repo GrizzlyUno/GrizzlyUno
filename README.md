@@ -2,10 +2,6 @@
 
 
 Greetings, 
-I am an aspiring (Game) Developer. 
-My journey into Game Development itself started back in the year 2018 when I started building within the Roblox Studio Engine.
-Later in the year 2021 led to an interest in Animation, and then from late to mid-2023 into Scripting/Programming.
-Now even taking keen interest in General Programming.
 
 ## Skills & Expertise
 #### Development
