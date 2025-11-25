@@ -1,6 +1,5 @@
-Hi, I'm Grizzly — a "developer" passionate about building interesting software/stuff.
-My Main Languages are LUA & Python.
-
+Hi, I'm Grizzly — a "developer" fond of building interesting software/stuff.
+<br>My Main Languages are LUA & Python.
 
 - 🔭 I’m currently working on: **Nothing**
 - 🌱 Learning more about: **C++ & C**
